@@ -1,0 +1,5 @@
+根目录下有四个文件夹：
+* \BLP：存放二部图标签扩散算法（Bipartite Label Propagation）相关文件
+* \datasets：存放实验所需的各类数据集，包括各种规模的数据
+* \recommenders：存放实验所用的各种对比方法文件，以及产生的结果文件
+* \evaluators：存放实验结果评估需要的方法，包括precision和NDCG的计算
